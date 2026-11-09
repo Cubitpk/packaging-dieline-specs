@@ -1,0 +1,484 @@
+{
+  "provider": "CubitPack",
+  "website": "https://cubitpack.com",
+  "tools_url": "https://cubitpack.com/tools",
+  "count": 34,
+  "styles": [
+    {
+      "slug": "custom-auto-lock-bottom-boxes",
+      "name": "Custom Auto Lock Bottom Boxes",
+      "url": "https://cubitpack.com/custom-auto-lock-bottom-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-auto-lock-bottom-boxes/custom-auto-lock-bottom-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-auto-lock-bottom-boxes/custom-auto-lock-bottom-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-auto-lock-bottom-boxes/custom-auto-lock-bottom-boxes-compare-pin.svg",
+      "description": "Custom auto lock bottom boxes with pre-glued crash-lock bases for heavy jars and bottles, from 1,000 boxes in 10\u201314 days. Free design help and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-for-an-auto-lock-bottom-box",
+        "https://cubitpack.com/guides/auto-lock-bottom-vs-straight-tuck-end-and-seal-end-boxes",
+        "https://cubitpack.com/guides/auto-lock-bottom-box-dieline-explained"
+      ]
+    },
+    {
+      "slug": "custom-book-style-boxes",
+      "name": "Custom Book Style Boxes",
+      "url": "https://cubitpack.com/custom-book-style-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-book-style-boxes/custom-book-style-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-book-style-boxes/custom-book-style-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-book-style-boxes/custom-book-style-boxes-compare-pin.svg",
+      "description": "Custom book style rigid boxes from 1,000 units in 10\u201314 days. Hinged hardcover spine, magnetic or ribbon closure, and EVA foam inserts. Free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-grayboard-for-book-style-boxes",
+        "https://cubitpack.com/guides/book-style-boxes-vs-magnetic-closure-and-two-piece-rigid-boxes",
+        "https://cubitpack.com/guides/book-style-box-dieline-spine-hinges-and-foam-inserts-explained"
+      ]
+    },
+    {
+      "slug": "custom-briefcase-boxes",
+      "name": "Custom Briefcase Boxes",
+      "url": "https://cubitpack.com/custom-briefcase-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-briefcase-boxes/custom-briefcase-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-briefcase-boxes/custom-briefcase-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-briefcase-boxes/custom-briefcase-boxes-compare-pin.svg",
+      "description": "Custom briefcase boxes with pop-up handles & front fold-over flaps from 1,000 units in 10\u201314 days. Free CAD dieline, zero die fees, and free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/briefcase-box-dimensions-handle-load-limits-and-flat-top-clearance",
+        "https://cubitpack.com/guides/custom-briefcase-boxes-vs-gable-boxes-and-two-piece-cartons",
+        "https://cubitpack.com/guides/briefcase-box-handle-slot-front-flap-lock-and-dieline-guide"
+      ]
+    },
+    {
+      "slug": "custom-collapsible-rigid-boxes",
+      "name": "Custom Collapsible Rigid Boxes",
+      "url": "https://cubitpack.com/custom-collapsible-rigid-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-collapsible-rigid-boxes/custom-collapsible-rigid-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-collapsible-rigid-boxes/custom-collapsible-rigid-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-collapsible-rigid-boxes/custom-collapsible-rigid-boxes-compare-pin.svg",
+      "description": "Custom collapsible rigid boxes that ship flat to save 75\u201385% storage space. 3M corner tape or magnetic lock, from 1,000 units in 10\u201314 days. Free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-grayboard-for-collapsible-rigid-boxes",
+        "https://cubitpack.com/guides/collapsible-rigid-boxes-vs-setup-magnetic-and-folding-mailer-boxes",
+        "https://cubitpack.com/guides/collapsible-rigid-box-dieline-corner-gussets-and-3m-tape-explained"
+      ]
+    },
+    {
+      "slug": "custom-counter-display-boxes",
+      "name": "Custom Counter Display Boxes",
+      "url": "https://cubitpack.com/custom-counter-display-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-counter-display-boxes/custom-counter-display-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-counter-display-boxes/custom-counter-display-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-counter-display-boxes/custom-counter-display-boxes-compare-pin.svg",
+      "description": "Custom counter display boxes printed on white or kraft paperboard from 1,000 units in 10\u201314 days. Free dieline & 3D proof, zero die fees, free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/checkout-counter-display-footprint-grid-inserts-and-tier-sizing",
+        "https://cubitpack.com/guides/pre-packed-pdq-counter-displays-vs-flat-ship-trays-and-peg-cartons",
+        "https://cubitpack.com/guides/counter-display-box-header-hinge-front-lip-and-insert-dieline-guide"
+      ]
+    },
+    {
+      "slug": "custom-cube-boxes",
+      "name": "Custom Cube Boxes",
+      "url": "https://cubitpack.com/custom-cube-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-cube-boxes/custom-cube-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-cube-boxes/custom-cube-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-cube-boxes/custom-cube-boxes-compare-pin.svg",
+      "description": "Custom cube boxes with equal L\u00d7W\u00d7H square faces in tuck-end, auto-lock, or two-piece styles from 1,000 units. Free CAD dieline, zero die fees, free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/custom-cube-box-sizes-closure-weight-limits-and-clearance-guide",
+        "https://cubitpack.com/guides/straight-tuck-vs-auto-lock-bottom-vs-two-piece-cube-boxes",
+        "https://cubitpack.com/guides/cube-box-dieline-equal-panel-math-and-six-face-artwork-guide"
+      ]
+    },
+    {
+      "slug": "custom-die-cut-boxes",
+      "name": "Custom Die Cut Boxes",
+      "url": "https://cubitpack.com/custom-die-cut-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-die-cut-boxes/custom-die-cut-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-die-cut-boxes/custom-die-cut-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-die-cut-boxes/custom-die-cut-boxes-compare-pin.svg",
+      "description": "Custom one-piece corrugated die-cut boxes with interlocking tabs, zero tape, and zero die fees. Ready in 10\u201314 business days with free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-flute-for-die-cut-boxes",
+        "https://cubitpack.com/guides/die-cut-corrugated-boxes-vs-rsc-shipping-and-mailer-boxes",
+        "https://cubitpack.com/guides/die-cut-box-dieline-interlocking-tabs-and-rotary-vs-flatbed-dies"
+      ]
+    },
+    {
+      "slug": "custom-dispenser-boxes",
+      "name": "Custom Dispenser Boxes",
+      "url": "https://cubitpack.com/custom-dispenser-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-dispenser-boxes/custom-dispenser-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-dispenser-boxes/custom-dispenser-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-dispenser-boxes/custom-dispenser-boxes-compare-pin.svg",
+      "description": "Custom dispenser boxes with clean tear-out slots & gravity ramps from 1,000 units in 10\u201314 days. Free CAD dieline, zero die fees, and free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/gravity-feed-dispenser-box-slot-height-ramp-angle-and-sachet-sizing",
+        "https://cubitpack.com/guides/bottom-gravity-dispenser-boxes-vs-top-pop-open-cartons-and-counter-trays",
+        "https://cubitpack.com/guides/dispenser-box-perforation-cut-tie-ratios-and-reclosable-flap-dielines"
+      ]
+    },
+    {
+      "slug": "custom-display-boxes",
+      "name": "Custom Display Boxes",
+      "url": "https://cubitpack.com/custom-display-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-display-boxes/custom-display-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-display-boxes/custom-display-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-display-boxes/custom-display-boxes-compare-pin.svg",
+      "description": "Custom display boxes with tear-away perforated hoods, low front lips, and fold-up headers from 1,000 units in 10\u201314 days. Free design help and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-for-a-display-box",
+        "https://cubitpack.com/guides/display-boxes-vs-counter-display-and-dispenser-boxes",
+        "https://cubitpack.com/guides/display-box-dieline-and-header-setup-explained"
+      ]
+    },
+    {
+      "slug": "custom-double-wall-boxes",
+      "name": "Custom Double Wall Boxes",
+      "url": "https://cubitpack.com/custom-double-wall-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-double-wall-boxes/custom-double-wall-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-double-wall-boxes/custom-double-wall-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-double-wall-boxes/custom-double-wall-boxes-compare-pin.svg",
+      "description": "Custom 5-ply double-wall corrugated boxes with two fluted layers for heavy, fragile & stacked shipments. Zero die fees and free US shipping in 10\u201314 days.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-ect-for-double-wall-boxes",
+        "https://cubitpack.com/guides/double-wall-boxes-vs-single-wall-rsc-and-heavy-duty-shippers",
+        "https://cubitpack.com/guides/double-wall-box-dieline-bc-vs-eb-flutes-and-h-taping-explained"
+      ]
+    },
+    {
+      "slug": "custom-drawer-boxes",
+      "name": "Custom Drawer Boxes",
+      "url": "https://cubitpack.com/custom-drawer-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-drawer-boxes/custom-drawer-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-drawer-boxes/custom-drawer-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-drawer-boxes/custom-drawer-boxes-compare-pin.svg",
+      "description": "Custom rigid drawer boxes with ribbon pulls or thumb cuts and snug inserts. Turned-edge grayboard from 50 boxes in 10\u201314 business days. Free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-grayboard-for-rigid-drawer-boxes",
+        "https://cubitpack.com/guides/rigid-drawer-boxes-vs-tray-and-sleeve-and-book-style-boxes",
+        "https://cubitpack.com/guides/rigid-drawer-box-dieline-ribbon-pulls-and-drawer-stops-explained"
+      ]
+    },
+    {
+      "slug": "custom-five-panel-hanger-boxes",
+      "name": "Custom Five Panel Hanger Boxes",
+      "url": "https://cubitpack.com/custom-five-panel-hanger-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-five-panel-hanger-boxes/custom-five-panel-hanger-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-five-panel-hanger-boxes/custom-five-panel-hanger-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-five-panel-hanger-boxes/custom-five-panel-hanger-boxes-compare-pin.svg",
+      "description": "Custom five panel hanger boxes with 2-ply billboard headers and Euro slots from 1,000 units in 10\u201314 days. Zero die fees, free 3D proof & US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/five-panel-hanger-box-dimensions-fifth-panel-height-and-peg-weight-limits",
+        "https://cubitpack.com/guides/five-panel-hanger-boxes-vs-hang-tab-boxes-and-header-card-cartons",
+        "https://cubitpack.com/guides/five-panel-hanger-box-dieline-fifth-panel-fold-and-side-tuck-guide"
+      ]
+    },
+    {
+      "slug": "custom-gable-boxes",
+      "name": "Custom Gable Boxes",
+      "url": "https://cubitpack.com/custom-gable-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-gable-boxes/custom-gable-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-gable-boxes/custom-gable-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-gable-boxes/custom-gable-boxes-compare-pin.svg",
+      "description": "Custom gable boxes with built-in carry handles & auto-lock bottoms from 1,000 units in 10\u201314 days. Free CAD dieline, zero die fees, and free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/gable-box-sizes-usable-headroom-and-handle-weight-limits",
+        "https://cubitpack.com/guides/auto-lock-bottom-gable-boxes-vs-briefcase-boxes-and-bakery-tuck-cartons",
+        "https://cubitpack.com/guides/gable-box-handle-lock-tabs-roof-gussets-and-window-dieline-guide"
+      ]
+    },
+    {
+      "slug": "custom-gift-boxes",
+      "name": "Custom Gift Boxes",
+      "url": "https://cubitpack.com/custom-gift-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-gift-boxes/custom-gift-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-gift-boxes/custom-gift-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-gift-boxes/custom-gift-boxes-compare-pin.svg",
+      "description": "Custom printed gift boxes in rigid magnetic, two-piece, drawer, sleeve, and pillow styles from 50 boxes in 10\u201314 days. Free design help and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-gift-boxes",
+        "https://cubitpack.com/guides/rigid-gift-boxes-vs-folding-gift-boxes-and-gift-mailers",
+        "https://cubitpack.com/guides/gift-box-dieline-ribbons-foil-and-foam-inserts-explained"
+      ]
+    },
+    {
+      "slug": "custom-hang-tab-boxes",
+      "name": "Custom Hang Tab Boxes",
+      "url": "https://cubitpack.com/custom-hang-tab-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-hang-tab-boxes/custom-hang-tab-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-hang-tab-boxes/custom-hang-tab-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-hang-tab-boxes/custom-hang-tab-boxes-compare-pin.svg",
+      "description": "Custom hang tab boxes with integrated die-cut Euro, delta, or round peg holes from 1,000 units in 10\u201314 days. Zero die charges, free 3D proof & US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/hang-tab-box-dimensions-hole-placement-and-peg-weight-limits",
+        "https://cubitpack.com/guides/integrated-die-cut-hang-tab-boxes-vs-adhesive-hang-tabs-and-header-cards",
+        "https://cubitpack.com/guides/hang-tab-box-dieline-euro-delta-round-hole-and-prepress-guide"
+      ]
+    },
+    {
+      "slug": "custom-header-card-boxes",
+      "name": "Custom Header Card Boxes",
+      "url": "https://cubitpack.com/custom-header-card-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-header-card-boxes/custom-header-card-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-header-card-boxes/custom-header-card-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-header-card-boxes/custom-header-card-boxes-compare-pin.svg",
+      "description": "Custom header card boxes with full-width double-ply top billboards and Euro hang slots from 1,000 units in 10\u201314 days. Free CAD dieline and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/header-card-box-dimensions-billboard-height-and-peg-weight-limits",
+        "https://cubitpack.com/guides/header-card-boxes-vs-hang-tab-boxes-and-five-panel-hanger-cartons",
+        "https://cubitpack.com/guides/header-card-box-dieline-double-ply-back-panel-and-euro-slot-guide"
+      ]
+    },
+    {
+      "slug": "custom-hexagon-boxes",
+      "name": "Custom Hexagon Boxes",
+      "url": "https://cubitpack.com/custom-hexagon-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-hexagon-boxes/custom-hexagon-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-hexagon-boxes/custom-hexagon-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-hexagon-boxes/custom-hexagon-boxes-compare-pin.svg",
+      "description": "Custom hexagon boxes with six-sided telescoping lids or tuck tops from 1,000 units in 10\u201314 days. Free CAD dieline, zero die fees, and free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/hexagon-box-dimensions-flat-to-flat-diameter-and-round-jar-fit",
+        "https://cubitpack.com/guides/two-piece-hexagon-boxes-vs-tuck-top-hex-cartons-and-cube-boxes",
+        "https://cubitpack.com/guides/hexagon-box-dieline-120-degree-creases-and-six-panel-artwork-guide"
+      ]
+    },
+    {
+      "slug": "custom-magnetic-closure-boxes",
+      "name": "Custom Magnetic Closure Boxes",
+      "url": "https://cubitpack.com/custom-magnetic-closure-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-magnetic-closure-boxes/custom-magnetic-closure-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-magnetic-closure-boxes/custom-magnetic-closure-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-magnetic-closure-boxes/custom-magnetic-closure-boxes-compare-pin.svg",
+      "description": "Custom magnetic closure rigid boxes with hidden magnets and printed paper wrap, from 50 boxes in 10\u201314 days. Free design help, 3D proof, and free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-for-a-magnetic-closure-rigid-box",
+        "https://cubitpack.com/guides/magnetic-closure-vs-book-style-and-collapsible-rigid-boxes",
+        "https://cubitpack.com/guides/magnetic-closure-rigid-box-dieline-and-wrap-explained"
+      ]
+    },
+    {
+      "slug": "custom-mailer-boxes",
+      "name": "Custom Mailer Boxes",
+      "url": "https://cubitpack.com/custom-mailer-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-mailer-boxes/custom-mailer-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-mailer-boxes/custom-mailer-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-mailer-boxes/custom-mailer-boxes-compare-pin.svg",
+      "description": "Custom mailer boxes printed inside and out, from 250 boxes in 10\u201314 days. Free design help, free US shipping. Get a written quote in 5-7 minutes.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-for-a-roll-end-tuck-front-mailer-box",
+        "https://cubitpack.com/guides/roll-end-tuck-front-mailer-vs-regular-slotted-shipping-boxes",
+        "https://cubitpack.com/guides/roll-end-tuck-front-mailer-box-dieline-explained"
+      ]
+    },
+    {
+      "slug": "custom-pillow-boxes",
+      "name": "Custom Pillow Boxes",
+      "url": "https://cubitpack.com/custom-pillow-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-pillow-boxes/custom-pillow-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-pillow-boxes/custom-pillow-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-pillow-boxes/custom-pillow-boxes-compare-pin.svg",
+      "description": "Custom pillow boxes printed on white or kraft paperboard from 1,000 units in 10\u201314 days. Free dieline & 3D proof, zero die fees, free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-pillow-boxes",
+        "https://cubitpack.com/guides/pillow-boxes-vs-gable-boxes-and-tuck-end-cartons",
+        "https://cubitpack.com/guides/pillow-box-dieline-curved-scores-windows-and-ribbons-explained"
+      ]
+    },
+    {
+      "slug": "custom-product-boxes",
+      "name": "Custom Product Boxes",
+      "url": "https://cubitpack.com/custom-product-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-product-boxes/custom-product-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-product-boxes/custom-product-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-product-boxes/custom-product-boxes-compare-pin.svg",
+      "description": "Custom product boxes printed on white card, kraft, or E-flute board from 1,000 units in 10\u201314 days. Tuck end, auto-lock, sleeve, and window styles.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-product-boxes",
+        "https://cubitpack.com/guides/straight-tuck-vs-reverse-tuck-vs-auto-lock-product-boxes",
+        "https://cubitpack.com/guides/product-box-dieline-finishes-and-print-setup-explained"
+      ]
+    },
+    {
+      "slug": "custom-reverse-tuck-end-boxes",
+      "name": "Custom Reverse Tuck End Boxes",
+      "url": "https://cubitpack.com/custom-reverse-tuck-end-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-reverse-tuck-end-boxes/custom-reverse-tuck-end-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-reverse-tuck-end-boxes/custom-reverse-tuck-end-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-reverse-tuck-end-boxes/custom-reverse-tuck-end-boxes-compare-pin.svg",
+      "description": "Custom reverse tuck end boxes (RTE folding cartons) printed from 1,000 units in 10\u201314 days. Free dieline help, no die fees, free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-reverse-tuck-end-boxes",
+        "https://cubitpack.com/guides/reverse-tuck-end-vs-straight-tuck-end-and-seal-end-boxes",
+        "https://cubitpack.com/guides/reverse-tuck-end-box-dieline-nesting-and-slit-locks-explained"
+      ]
+    },
+    {
+      "slug": "custom-rigid-boxes",
+      "name": "Custom Rigid Boxes",
+      "url": "https://cubitpack.com/custom-rigid-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-rigid-boxes/custom-rigid-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-rigid-boxes/custom-rigid-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-rigid-boxes/custom-rigid-boxes-compare-pin.svg",
+      "description": "Custom rigid setup boxes wrapped in printed paper or kraft over thick chipboard, from 50 boxes in 10\u201314 days. Magnetic, two-piece, drawer, and shoulder styles.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-rigid-boxes",
+        "https://cubitpack.com/guides/magnetic-vs-two-piece-vs-drawer-vs-shoulder-neck-rigid-boxes",
+        "https://cubitpack.com/guides/rigid-box-dieline-paper-wrap-and-v-grooving-explained"
+      ]
+    },
+    {
+      "slug": "custom-seal-end-boxes",
+      "name": "Custom Seal End Boxes",
+      "url": "https://cubitpack.com/custom-seal-end-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-seal-end-boxes/custom-seal-end-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-seal-end-boxes/custom-seal-end-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-seal-end-boxes/custom-seal-end-boxes-compare-pin.svg",
+      "description": "Custom seal end boxes (FOSE folding cartons) with optional zipper tear strips, printed from 1,000 units in 10\u201314 days. Free design help and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-seal-end-boxes",
+        "https://cubitpack.com/guides/seal-end-boxes-vs-tuck-end-and-auto-lock-bottom-boxes",
+        "https://cubitpack.com/guides/seal-end-box-dieline-tear-strips-and-glue-flaps-explained"
+      ]
+    },
+    {
+      "slug": "custom-shipping-boxes",
+      "name": "Custom Shipping Boxes",
+      "url": "https://cubitpack.com/custom-shipping-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-shipping-boxes/custom-shipping-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-shipping-boxes/custom-shipping-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-shipping-boxes/custom-shipping-boxes-compare-pin.svg",
+      "description": "Custom printed corrugated shipping boxes in Regular Slotted (RSC), die-cut, and double-wall styles in 10\u201314 business days. Free design help and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-shipping-boxes",
+        "https://cubitpack.com/guides/rsc-shipping-boxes-vs-die-cut-mailers-and-double-wall-boxes",
+        "https://cubitpack.com/guides/shipping-box-dieline-flutes-and-ect-ratings-explained"
+      ]
+    },
+    {
+      "slug": "custom-shoulder-neck-boxes",
+      "name": "Custom Shoulder Neck Boxes",
+      "url": "https://cubitpack.com/custom-shoulder-neck-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-shoulder-neck-boxes/custom-shoulder-neck-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-shoulder-neck-boxes/custom-shoulder-neck-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-shoulder-neck-boxes/custom-shoulder-neck-boxes-compare-pin.svg",
+      "description": "Custom 3-part shoulder neck rigid boxes with flush outer walls and stepped inner collars for parfum, spirits & watches. MOQ 50, free dieline & US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-grayboard-for-shoulder-neck-boxes",
+        "https://cubitpack.com/guides/shoulder-neck-boxes-vs-two-piece-rigid-and-drawer-boxes",
+        "https://cubitpack.com/guides/shoulder-neck-box-dieline-flush-collars-and-stepped-reveals-explained"
+      ]
+    },
+    {
+      "slug": "custom-sleeve-boxes",
+      "name": "Custom Sleeve Boxes",
+      "url": "https://cubitpack.com/custom-sleeve-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-sleeve-boxes/custom-sleeve-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-sleeve-boxes/custom-sleeve-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-sleeve-boxes/custom-sleeve-boxes-compare-pin.svg",
+      "description": "Custom sleeve boxes and printed paperboard belly bands from 1,000 units in 10\u201314 days. Open-ended wraps for soap, trays, candles, and boxes. Free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-board-for-sleeve-boxes",
+        "https://cubitpack.com/guides/sleeve-boxes-vs-belly-bands-and-tray-and-sleeve-boxes",
+        "https://cubitpack.com/guides/sleeve-box-dieline-locking-notches-and-windows-explained"
+      ]
+    },
+    {
+      "slug": "custom-straight-tuck-end-boxes",
+      "name": "Custom Straight Tuck End Boxes",
+      "url": "https://cubitpack.com/custom-straight-tuck-end-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-straight-tuck-end-boxes/custom-straight-tuck-end-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-straight-tuck-end-boxes/custom-straight-tuck-end-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-straight-tuck-end-boxes/custom-straight-tuck-end-boxes-compare-pin.svg",
+      "description": "Custom straight tuck end boxes printed with your brand, from 1,000 boxes in 10\u201314 days. Free design help, free US shipping. Get a price in 5-7 minutes.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-for-a-tuck-end-box",
+        "https://cubitpack.com/guides/straight-vs-reverse-tuck-end-boxes",
+        "https://cubitpack.com/guides/tuck-end-box-dieline-explained"
+      ]
+    },
+    {
+      "slug": "custom-subscription-boxes",
+      "name": "Custom Subscription Boxes",
+      "url": "https://cubitpack.com/custom-subscription-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-subscription-boxes/custom-subscription-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-subscription-boxes/custom-subscription-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-subscription-boxes/custom-subscription-boxes-compare-pin.svg",
+      "description": "Custom subscription boxes printed outside and inside with fitted inserts, from 250 boxes in 10\u201314 days. Zero die fees and free US shipping across 50 states.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-size-custom-subscription-boxes-for-cubic-shipping-and-inserts",
+        "https://cubitpack.com/guides/custom-subscription-boxes-vs-standard-mailers-poly-mailers-and-rsc",
+        "https://cubitpack.com/guides/subscription-box-inside-printing-dielines-and-unboxing-retention-guide"
+      ]
+    },
+    {
+      "slug": "custom-tray-and-sleeve-boxes",
+      "name": "Custom Tray and Sleeve Boxes",
+      "url": "https://cubitpack.com/custom-tray-and-sleeve-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-tray-and-sleeve-boxes/custom-tray-and-sleeve-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-tray-and-sleeve-boxes/custom-tray-and-sleeve-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-tray-and-sleeve-boxes/custom-tray-and-sleeve-boxes-compare-pin.svg",
+      "description": "Custom tray and sleeve boxes (sleeve and tray slide cartons) from 1,000 boxes in 10\u201314 days. Free design help, custom dieline, 3D proof, and free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-for-a-tray-and-sleeve-box",
+        "https://cubitpack.com/guides/tray-and-sleeve-vs-sleeve-only-and-rigid-drawer-boxes",
+        "https://cubitpack.com/guides/tray-and-sleeve-box-dieline-explained"
+      ]
+    },
+    {
+      "slug": "custom-tube-boxes",
+      "name": "Custom Tube Boxes",
+      "url": "https://cubitpack.com/custom-tube-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-tube-boxes/custom-tube-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-tube-boxes/custom-tube-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-tube-boxes/custom-tube-boxes-compare-pin.svg",
+      "description": "Custom tube boxes and cylindrical paperboard canisters with slip-on or flush shoulder-neck lids from 1,000 units in 10\u201314 days. Free proof and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/paperboard-tube-box-dimensions-internal-diameter-and-bottle-fit",
+        "https://cubitpack.com/guides/telescoping-tube-boxes-vs-hexagon-boxes-and-two-piece-cartons",
+        "https://cubitpack.com/guides/paperboard-tube-wrap-dieline-360-degree-seam-and-cap-artwork-guide"
+      ]
+    },
+    {
+      "slug": "custom-two-piece-boxes",
+      "name": "Custom Two-Piece Boxes",
+      "url": "https://cubitpack.com/custom-two-piece-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-two-piece-boxes/custom-two-piece-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-two-piece-boxes/custom-two-piece-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-two-piece-boxes/custom-two-piece-boxes-compare-pin.svg",
+      "description": "Custom two-piece lid and base boxes from 1,000 units in 10\u201314 days. Folding simplex, corrugated, or rigid telescope styles. Free design help and US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-calculate-lid-clearance-for-two-piece-boxes",
+        "https://cubitpack.com/guides/folding-simplex-vs-rigid-setup-two-piece-boxes",
+        "https://cubitpack.com/guides/two-piece-box-dieline-full-partial-and-shoulder-neck-lids-explained"
+      ]
+    },
+    {
+      "slug": "custom-two-piece-rigid-boxes",
+      "name": "Custom Two-Piece Rigid Boxes",
+      "url": "https://cubitpack.com/custom-two-piece-rigid-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-two-piece-rigid-boxes/custom-two-piece-rigid-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-two-piece-rigid-boxes/custom-two-piece-rigid-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-two-piece-rigid-boxes/custom-two-piece-rigid-boxes-compare-pin.svg",
+      "description": "Custom two-piece rigid setup boxes with full or partial telescope lids and snug inserts. Turned-edge grayboard from 50 boxes. Free dieline & US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-and-choose-grayboard-for-two-piece-rigid-boxes",
+        "https://cubitpack.com/guides/two-piece-rigid-boxes-vs-shoulder-neck-and-magnetic-closure-boxes",
+        "https://cubitpack.com/guides/two-piece-rigid-box-dieline-turn-in-wraps-and-thumb-cuts-explained"
+      ]
+    },
+    {
+      "slug": "custom-window-boxes",
+      "name": "Custom Window Boxes",
+      "url": "https://cubitpack.com/custom-window-boxes",
+      "dieline_svg": "https://cubitpack.com/media/styles/custom-window-boxes/custom-window-boxes-dieline.svg",
+      "fold_svg": "https://cubitpack.com/media/styles/custom-window-boxes/custom-window-boxes-fold.svg",
+      "compare_pin_svg": "https://cubitpack.com/media/styles/custom-window-boxes/custom-window-boxes-compare-pin.svg",
+      "description": "Custom window boxes with clear PET film patches or open die-cut cutouts from 1,000 units in 10\u201314 days. Free design help, custom dieline, and free US shipping.",
+      "guides": [
+        "https://cubitpack.com/guides/how-to-measure-for-a-window-box",
+        "https://cubitpack.com/guides/open-cutout-vs-film-patched-window-boxes",
+        "https://cubitpack.com/guides/window-box-dieline-and-patch-margins-explained"
+      ]
+    }
+  ]
+}
